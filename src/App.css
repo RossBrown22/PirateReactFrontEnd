@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  background-image: url('/Users/rossbrown/codeclan_work/week_13/pirate_frontend/public/image/ship.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  color: rgb(252, 193, 122) ;
+  text-shadow: 3px 5px 0px #000000;
+}
+
+h1 {
+  padding-top: 10px;
+  margin-top: 0px;
+}
+
+li {
+  list-style: none;
+}
